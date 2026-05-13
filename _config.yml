@@ -1,0 +1,27 @@
+title: Breadcrumb Legal
+description: Terms of Service and Privacy Policy for Breadcrumb
+url: https://legal.breadcrumb.app
+
+theme: minima
+markdown: kramdown
+
+# Strip the .html extension from URLs that don't have a per-file permalink.
+permalink: /:basename/
+
+# Files staged in this folder that are NOT meant to ship as public web pages.
+# These are operational artifacts (ASC disclosure, Ben-action runbooks, etc.).
+exclude:
+  - NUTRITION-LABELS.md
+  - BEN-SETUP-LEGAL-DOMAIN.md
+  - BEN-SETUP-SECRET-ROTATION.md
+  - APP-STORE-COPY.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Sitemap + feed for search engine discoverability (App Store reviewers
+# sometimes spot-check whether the legal page is indexable).
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
