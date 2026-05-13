@@ -17,7 +17,7 @@ permalink: /tos/
 
 These Terms govern your use of Breadcrumb. By creating an account or using the app you agree to them. If you don't agree, please don't use Breadcrumb.
 
-Questions: **support@breadcrumb.app**.
+Questions: **benzierten@gmail.com**.
 
 ---
 
@@ -95,5 +95,5 @@ If we make material changes, we will update the "Last updated" date above and no
 
 ## 13. Contact
 
-Questions about these Terms: **support@breadcrumb.app**.
-Privacy questions: **privacy@breadcrumb.app** (see Privacy Policy).
+Questions about these Terms: **benzierten@gmail.com**.
+Privacy questions: **benzierten@gmail.com** (see Privacy Policy).

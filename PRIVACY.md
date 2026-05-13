@@ -15,15 +15,17 @@ permalink: /privacy/
 **Effective date:** 2026-05-12
 **Last updated:** 2026-05-12
 
+> **v0.1.0 early-access notice:** all privacy + support contact for Breadcrumb is handled at **benzierten@gmail.com** during early access. Domain-aliased email addresses (e.g. `privacy@<domain>`) will land in a future release as the brand surface formalizes.
+
 This Privacy Policy explains what information Breadcrumb collects, how we use it, and the choices you have. We wrote it in plain language so an App Store reviewer or any user can understand it without a lawyer.
 
-If you have questions, contact us at **privacy@breadcrumb.app**.
+If you have questions, contact us at **benzierten@gmail.com**.
 
 ---
 
 ## 1. Who we are
 
-Breadcrumb is an iOS app that lets you "drop a crumb" — a photo + location + tags + a 5-slice rating — at the places you visit. Crumbs live in a public Trail feed or in private friend groups called Breadboxes. Breadcrumb is operated by the team behind the app (contact: privacy@breadcrumb.app).
+Breadcrumb is an iOS app that lets you "drop a crumb" — a photo + location + tags + a 5-slice rating — at the places you visit. Crumbs live in a public Trail feed or in private friend groups called Breadboxes. Breadcrumb is operated by the team behind the app (contact: benzierten@gmail.com).
 
 ## 2. Information we collect
 
@@ -102,13 +104,13 @@ You can, at any time:
 - **Delete any individual crumb** from the crumb's detail screen.
 - **Delete your entire account in-app** from Settings -> Account -> Delete account. Deletion removes your profile, crumbs, hashed contacts, and authentication record from our database. It cannot be undone.
 - **Revoke iOS permissions** (Contacts, Location, Photos, Notifications) at any time in iOS Settings -> Breadcrumb. Revoking a permission disables the feature that requires it but does not delete past data; use account deletion for that.
-- **Ask us a question** about your data at privacy@breadcrumb.app.
+- **Ask us a question** about your data at benzierten@gmail.com.
 
-If you are in the European Economic Area, the United Kingdom, or a jurisdiction with comparable privacy rights (e.g. California), you may also request: access to your data, correction, deletion, or a copy of what we hold. Email privacy@breadcrumb.app and we will respond within 30 days.
+If you are in the European Economic Area, the United Kingdom, or a jurisdiction with comparable privacy rights (e.g. California), you may also request: access to your data, correction, deletion, or a copy of what we hold. Email benzierten@gmail.com and we will respond within 30 days.
 
 ## 8. Children
 
-Breadcrumb is not intended for users under 13. We do not knowingly collect data from anyone under 13. If you believe a child under 13 has registered, contact us at privacy@breadcrumb.app and we will delete the account.
+Breadcrumb is not intended for users under 13. We do not knowingly collect data from anyone under 13. If you believe a child under 13 has registered, contact us at benzierten@gmail.com and we will delete the account.
 
 ## 9. Security
 
@@ -126,4 +128,4 @@ If we make material changes, we will update the "Last updated" date above and no
 ## 11. Contact
 
 Privacy questions, data requests, or anything else related to this policy:
-**privacy@breadcrumb.app**
+**benzierten@gmail.com**
