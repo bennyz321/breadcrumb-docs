@@ -1,6 +1,7 @@
 title: Breadcrumb Legal
 description: Terms of Service and Privacy Policy for Breadcrumb
-url: https://legal.breadcrumb.app
+url: https://bennyz321.github.io
+baseurl: /breadcrumb-docs
 
 theme: minima
 markdown: kramdown
