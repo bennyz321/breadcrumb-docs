@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Breadcrumb Legal
+title: .bread.crumb. Legal
 permalink: /
 ---
 
-# Breadcrumb Legal
+# .bread.crumb. Legal
 
-This page hosts the legal documents for the Breadcrumb iOS app.
+This page hosts the legal documents for the .bread.crumb. iOS app.
 
 - [Terms of Service](/tos/)
 - [Privacy Policy](/privacy/)
