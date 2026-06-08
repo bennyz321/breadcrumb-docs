@@ -1,12 +1,12 @@
 ---
 layout: home
-title: .bread.crumb. Legal
+title: OnlyCrumbs Legal
 permalink: /
 ---
 
-# .bread.crumb. Legal
+# OnlyCrumbs Legal
 
-This page hosts the legal documents for the .bread.crumb. iOS app.
+This page hosts the legal documents for the OnlyCrumbs iOS app.
 
 - [Terms of Service](/tos/)
 - [Privacy Policy](/privacy/)
