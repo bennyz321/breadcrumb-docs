@@ -4,12 +4,6 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
----
-layout: page
-title: Privacy Policy
-permalink: /privacy/
----
-
 # Spill Da Beans Privacy Policy
 
 **Effective date:** 2026-05-12

@@ -4,12 +4,6 @@ title: Terms of Service
 permalink: /tos/
 ---
 
----
-layout: page
-title: Terms of Service
-permalink: /tos/
----
-
 # Spill Da Beans Terms of Service
 
 **Effective date:** 2026-05-12
