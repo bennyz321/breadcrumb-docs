@@ -25,7 +25,7 @@ If you have questions, contact us at **support@spilldabeans.com**.
 
 ## 1. Who we are
 
-Spill Da Beans is an iOS app that lets you "drop a crumb" — a photo + location + tags + a 5-slice rating — at the places you visit. Crumbs live in a public Trail feed or in private friend groups called Breadboxes. Spill Da Beans is operated by the team behind the app (contact: support@spilldabeans.com).
+Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." For each bean you choose who can see it: your Pod, or only you (a "Secret bean"). You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. Spill Da Beans is operated by the team behind the app (contact: support@spilldabeans.com).
 
 ## 2. Information we collect
 
@@ -37,22 +37,21 @@ When you choose to find friends, we send a one-way cryptographic hash of each co
 
 You control whether to grant Contacts access. You can revoke access in iOS Settings at any time. We only read contacts at the moment you opt in to find-friends; we do not read them in the background.
 
-### 2.2 Location (coarse, only when you drop a crumb)
+### 2.2 Location (coarse, only when you spill a bean)
 
-We collect coarse location only at the moment you choose to "drop a crumb." We do NOT track your continuous location. We do NOT collect background location. The coarse location is attached as metadata to the crumb you just created so it can appear on the map.
+We collect coarse location only at the moment you choose to "spill a bean." We do NOT track your continuous location. We do NOT collect background location. The coarse location is attached as metadata to the bean you just created so it can appear on the map.
 
 You control whether to grant Location access. You can revoke access in iOS Settings at any time.
 
-### 2.3 User content (photos, text, ratings)
+### 2.3 User content (photos, text, tags)
 
-When you drop a crumb you choose to upload:
-- the photo
+When you spill a bean you choose to upload:
+- an optional photo
 - optional tags
-- the audience scope (public Trail, private Breadbox)
-- a 5-slice rating
+- who can see the bean (your Pod, or only you as a Secret bean)
 - optional text notes
 
-This is your content. You can delete any crumb at any time from within the app, which removes it from our server.
+This is your content. You can delete any bean at any time from within the app, which removes it from our server.
 
 ### 2.4 Account identifiers
 
@@ -68,8 +67,8 @@ We do NOT collect your name unless you choose to provide it as part of your prof
 Solely for app functionality:
 - Authenticating you and keeping your session secure
 - Letting your friends find you when they grant contacts access (via hashed match)
-- Displaying your crumbs to the audience you selected (your Batch or a specific Breadbox)
-- Delivering push notifications you opted into (Wishlist hits, Breadbox invites)
+- Displaying your beans to the audience you selected (your Pod, or only you for a Secret bean)
+- Delivering push notifications you opted into
 
 We do not use your information for advertising, profiling, or any purpose unrelated to running the app.
 
@@ -79,7 +78,7 @@ Your content and identifiers are stored on the following service providers under
 
 | Service | Purpose | What they see |
 | --- | --- | --- |
-| Supabase | Database + authentication | Your account data, crumbs, hashed contacts |
+| Supabase | Database + authentication | Your account data, beans, hashed contacts |
 | Apple | Sign in with Apple, push notifications | Your Apple Sign In identifier; push tokens |
 | Twilio (via Supabase) | Phone OTP delivery | Your phone number during SMS verification |
 | Mapbox | Map tiles | Anonymous map-view requests (no account data) |
@@ -94,15 +93,15 @@ Your data is stored in the United States on infrastructure operated by the provi
 ## 6. How long we keep it
 
 - Account data: until you delete your account.
-- Crumbs: while the crumb is live. You can delete any crumb at any time.
+- Beans: while the bean is live. You can delete any bean at any time.
 - Hashed contacts: while you remain opted in to find-friends. We delete them when you revoke contacts access in-app or delete your account.
 - Server logs (for operational debugging): up to 30 days.
 
 ## 7. Your rights and choices
 
 You can, at any time:
-- **Delete any individual crumb** from the crumb's detail screen.
-- **Delete your entire account in-app** from Settings -> Account -> Delete account. Deletion removes your profile, crumbs, hashed contacts, and authentication record from our database. It cannot be undone.
+- **Delete any individual bean** from the bean's menu in the feed or from the place sheet on the map.
+- **Delete your entire account in-app** from Settings -> Delete Account. Deletion removes your profile, beans, hashed contacts, and authentication record from our database. It cannot be undone.
 - **Revoke iOS permissions** (Contacts, Location, Photos, Notifications) at any time in iOS Settings -> Spill Da Beans. Revoking a permission disables the feature that requires it but does not delete past data; use account deletion for that.
 - **Ask us a question** about your data at support@spilldabeans.com.
 

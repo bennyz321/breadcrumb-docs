@@ -23,7 +23,7 @@ Questions: **support@spilldabeans.com**.
 
 ## 1. What Spill Da Beans is
 
-Spill Da Beans is an iOS app that lets you drop a "crumb" — a photo + location + tags + a 5-slice rating — at the places you visit, and share those crumbs with a public Trail feed or with private friend groups called Breadboxes. The app is currently in early access; features may change and you may encounter bugs.
+Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." For each bean you choose who can see it: your Pod, or only you (a "Secret bean"). You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. The app is currently in early access; features may change and you may encounter bugs.
 
 ## 2. Who can use Spill Da Beans
 
@@ -36,11 +36,11 @@ When you sign up via Sign in with Apple or phone number, you agree to:
 - keep your sign-in credentials and device secure
 - be responsible for activity that happens on your account
 
-You can delete your account at any time from Settings -> Account -> Delete account inside the app. Deletion is permanent and removes your profile, crumbs, hashed contacts, and authentication record.
+You can delete your account at any time from Settings -> Delete Account inside the app. Deletion is permanent and removes your profile, beans, hashed contacts, and authentication record.
 
 ## 4. Your content
 
-You own the photos and text you post to Spill Da Beans. By posting a crumb you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to the audience you select (public Trail or a specific Breadbox). The license ends when you delete the crumb or your account.
+You own the photos and text you post to Spill Da Beans. By spilling a bean you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to the audience you select (your Pod, or only you for a Secret bean). The license ends when you delete the bean or your account.
 
 You are responsible for the content you post. Do not post anything that:
 - you don't have the right to share
