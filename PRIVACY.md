@@ -69,7 +69,7 @@ We use your information to run the app:
 - Authenticating you and keeping your session secure
 - Letting people who have your phone number find you, letting you find them, and handling friend requests
 - Showing your beans to your Pod
-- Registering your device for push notifications if you allow them
+- Delivering push notifications you opted into, for example when someone sends you a friend request
 - Reviewing reports and enforcing blocks to keep the app safe (reports, and any details you add, are seen by our moderation team)
 
 We do not use your information for advertising, profiling, or any purpose unrelated to running the app.
@@ -81,7 +81,7 @@ Your content and identifiers are handled by the following service providers unde
 | Service | Purpose | What they see |
 | --- | --- | --- |
 | Supabase | Database, sign-in and photo storage | Your account data, beans, photos, contact codes |
-| Apple | Maps, place search, location lookups, Sign in with Apple, push notifications | Your search text, the map area or your location, your Apple ID identifier, push tokens |
+| Apple | Maps, place search, location lookups, Sign in with Apple, push notifications | Your search text, the map area or your location, your Apple ID identifier, push tokens and notification text |
 | Twilio (via Supabase) | Sign-in text messages | Your phone number and the code |
 | Resend | Sign-in emails | Your email address and the code |
 | Mapbox | Map display | The map area and your location while the map is open |
