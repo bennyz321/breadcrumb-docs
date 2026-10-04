@@ -6,8 +6,8 @@ permalink: /tos/
 
 # Spill Da Beans Terms of Service
 
-**Effective date:** 2026-05-12
-**Last updated:** 2026-05-12
+**Effective date:** PUBDATE
+**Last updated:** PUBDATE
 
 These Terms govern your use of Spill Da Beans. By creating an account or using the app you agree to them. If you don't agree, please don't use Spill Da Beans.
 
@@ -25,16 +25,16 @@ You must be at least 13 years old. If you are between 13 and the age of majority
 
 ## 3. Your account
 
-When you sign up via Sign in with Apple or phone number, you agree to:
+When you sign up with Sign in with Apple, your phone number or your email address, you agree to:
 - provide accurate information
 - keep your sign-in credentials and device secure
 - be responsible for activity that happens on your account
 
-You can delete your account at any time from Settings -> Delete Account inside the app. Deletion is permanent and removes your profile, beans, hashed contacts, and authentication record.
+You can delete your account at any time in the app from Settings, then Delete Account. Deletion is permanent and removes your profile, beans and their photos, contact codes and sign-in record. Photos already used as place pictures stay on those places (see Your content).
 
 ## 4. Your content
 
-You own the photos and text you post to Spill Da Beans. By spilling a bean you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to the audience you select (your Pod, or only you for a Secret bean). The license ends when you delete the bean or your account.
+You own the photos and text you post to Spill Da Beans. By spilling a bean you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to the audience you select (your Pod, or only you for a Secret bean). For photos, the license also lets us use the photo as a picture of the place it was taken at, shown to all users of the app, and to keep showing it there after you delete the bean or your account. This does not cover your note, your tags or your identity, which are shown only to the audience you choose. Otherwise the license ends when you delete the bean or your account. You can ask us to remove a place picture you took by emailing support@spilldabeans.com.
 
 You are responsible for the content you post. Do not post anything that:
 - you don't have the right to share
@@ -45,6 +45,8 @@ You are responsible for the content you post. Do not post anything that:
 - is spam or unsolicited promotional content
 
 We may remove content that violates these rules and suspend accounts that do so repeatedly.
+
+You can report a bean or block another user from the bean's menu. Reported beans are hidden while we review them. Blocking someone removes them from your Pod, and neither of you will see the other's beans.
 
 ## 5. Acceptable use
 
