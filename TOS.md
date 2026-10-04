@@ -17,7 +17,7 @@ Questions: **support@spilldabeans.com**.
 
 ## 1. What Spill Da Beans is
 
-Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." For each bean you choose who can see it: your Pod, or only you (a "Secret bean"). You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. The app is currently in early access; features may change and you may encounter bugs.
+Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." Your beans are shared with your Pod. You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. The app is currently in early access; features may change and you may encounter bugs.
 
 ## 2. Who can use Spill Da Beans
 
@@ -34,7 +34,7 @@ You can delete your account at any time in the app from Settings, then Delete Ac
 
 ## 4. Your content
 
-You own the photos and text you post to Spill Da Beans. By spilling a bean you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to the audience you select (your Pod, or only you for a Secret bean). For photos, the license also lets us use the photo as a picture of the place it was taken at, shown to all users of the app, and to keep showing it there after you delete the bean or your account. This does not cover your note, your tags or your identity, which are shown only to the audience you choose. Otherwise the license ends when you delete the bean or your account. You can ask us to remove a place picture you took by emailing support@spilldabeans.com.
+You own the photos and text you post to Spill Da Beans. By spilling a bean you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to your Pod. For photos, the license also lets us use the photo as a picture of the place it was taken at, shown to all users of the app, and to keep showing it there after you delete the bean or your account. This does not cover your note, your tags or your identity, which are shown only to your Pod. Otherwise the license ends when you delete the bean or your account. You can ask us to remove a place picture you took by emailing support@spilldabeans.com.
 
 You are responsible for the content you post. Do not post anything that:
 - you don't have the right to share

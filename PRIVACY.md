@@ -19,7 +19,7 @@ If you have questions, contact us at **support@spilldabeans.com**.
 
 ## 1. Who we are
 
-Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." For each bean you choose who can see it: your Pod, or only you (a "Secret bean"). You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. Spill Da Beans is operated by the team behind the app (contact: support@spilldabeans.com).
+Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." Your beans are shared with your Pod. You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. Spill Da Beans is operated by the team behind the app (contact: support@spilldabeans.com).
 
 ## 2. Information we collect
 
@@ -44,12 +44,13 @@ When you spill a bean you choose to upload:
 - an optional photo
 - optional tags
 - an optional What to order note
-- who can see the bean (your Pod, or only you as a Secret bean)
 - optional text notes
 
-**Photos can become the picture for the place.** When you add a photo to a bean, Spill Da Beans may use that photo as a picture of the place, visible to everyone who uses the app. Only the photo is shared this way. Your bean itself (your name, your note, your tags, and the fact that you spilled it) stays visible only to your Pod. Photos on Secret beans are never used as place pictures. A photo used as a place picture stays on the place after you delete the bean or your account. You can ask us to remove it by emailing support@spilldabeans.com.
+**Photos can become the picture for the place.** When you add a photo to a bean, Spill Da Beans may use that photo as a picture of the place, visible to everyone who uses the app. Only the photo is shared this way. Your bean itself (your name, your note, your tags, and the fact that you spilled it) stays visible only to your Pod. A photo used as a place picture stays on the place after you delete the bean or your account. You can ask us to remove it by emailing support@spilldabeans.com.
 
 This is your content. You can delete any bean at any time from within the app, which removes the bean and its photo from our server. If the photo is being used as a picture of the place, that picture stays on the place (see above).
+
+**Photos are stored at a web address.** Anyone who has that address can open the photo.
 
 **Profile.** Your display name, username, and optional profile photo and bio. Your Pod sees your name and photo.
 
@@ -67,7 +68,7 @@ You choose a display name when you sign up, and your Pod sees it.
 We use your information to run the app:
 - Authenticating you and keeping your session secure
 - Letting people who have your phone number find you, letting you find them, and handling friend requests
-- Displaying your beans to the audience you selected (your Pod, or only you for a Secret bean)
+- Showing your beans to your Pod
 - Delivering push notifications you opted into, for example when someone sends you a friend request
 - Reviewing reports and enforcing blocks to keep the app safe (reports, and any details you add, are seen by our moderation team)
 
@@ -118,7 +119,7 @@ Spill Da Beans is not intended for users under 13. We do not knowingly collect d
 
 ## 9. Security
 
-- We use database access rules so that people can see only the beans they are allowed to see.
+- We use database access rules so that people can see only the beans they are allowed to see. Photos are the exception described above.
 - We use encrypted connections between the app and our servers.
 
 No system is perfectly secure. If we learn of a breach that affects your data, we will notify you within the timeframe required by applicable law.
