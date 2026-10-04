@@ -48,7 +48,7 @@ When you spill a bean you choose to upload:
 
 **Photos can become the picture for the place.** When you add a photo to a bean, Spill Da Beans may use that photo as a picture of the place, visible to everyone who uses the app. Only the photo is shared this way. Your bean itself is shown to your Pod. Using the photo as a place picture does not add your note, tags or attribution as its author to that picture. We can also access beans for support and moderation as described below. A photo used as a place picture stays on the place after you delete the bean or your account. You can ask us to remove it by emailing support@spilldabeans.com.
 
-This is your content. You can delete any bean at any time from within the app, which removes the bean and its photo from our server. If the photo is being used as a picture of the place, that picture stays on the place (see above).
+This is your content. You can delete any bean at any time from within the app, which removes the bean and its photo from our server. Cached copies of the photo may remain available for a short time. If the photo is being used as a picture of the place, that picture stays on the place (see above).
 
 **Photos are stored at a web address.** Anyone who has that address can open the photo.
 
