@@ -14,4 +14,4 @@ This page hosts the legal documents for the Spill Da Beans iOS app.
 For privacy questions or data requests, email **support@spilldabeans.com**.
 For general support, email **support@spilldabeans.com**.
 
-Last updated: 2026-05-12.
+Last updated: 2026-10-05.
