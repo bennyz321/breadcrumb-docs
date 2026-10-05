@@ -30,11 +30,11 @@ When you sign up with Sign in with Apple, your phone number or your email addres
 - keep your sign-in credentials and device secure
 - be responsible for activity that happens on your account
 
-You can delete your account at any time in the app from Settings, then Delete Account. Deletion is permanent and removes your profile, beans and their photos, contact codes and sign-in record. Photos already used as place pictures stay on those places (see Your content). We also retain the deletion and moderation records described in our Privacy Policy.
+You can delete your account at any time in the app from Settings, then Delete Account. Deletion is permanent and removes your profile, beans and their photos, contact codes and sign-in record. Your photos also stop being used as place pictures (see Your content). We also retain the deletion and moderation records described in our Privacy Policy.
 
 ## 4. Your content
 
-You own the photos and text you post to Spill Da Beans. By spilling a bean you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to your Pod. For photos, the license also lets us use the photo as a picture of the place it was taken at, shown to all users of the app, and to keep showing it there after you delete the bean or your account. This permission to use a place picture does not include adding your note, tags or attribution as the bean's author to that picture. Your bean is shown to your Pod; your profile information is also available to other signed-in users. Otherwise the license ends when you delete the bean or your account. You can ask us to remove a place picture you took by emailing support@spilldabeans.com.
+You own the photos and text you post to Spill Da Beans. By spilling a bean you grant us a limited, non-exclusive, royalty-free license to host, display, and distribute that content within the app to your Pod. For photos, the license also lets us use the photo as a picture of the place it was taken at, shown to all users of the app, and to keep showing it there after you delete the bean, until a newer photo replaces it or you delete your account. This permission to use a place picture does not include adding your note, tags or attribution as the bean's author to that picture. Your bean is shown to your Pod; your profile information is also available to other signed-in users. Otherwise the license ends when you delete the bean or your account. You can ask us to remove a place picture you took by emailing support@spilldabeans.com.
 
 You are responsible for the content you post. Do not post anything that:
 - you don't have the right to share
