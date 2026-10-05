@@ -4,6 +4,13 @@ url: https://bennyz321.github.io
 baseurl: /breadcrumb-docs
 
 theme: minima
+
+# Pin the nav to the pages it showed before /join/ existed, in the same order:
+# /privacy/ is the App Review privacy URL and must render unchanged.
+header_pages:
+  - PRIVACY.md
+  - TOS.md
+  - index.md
 markdown: kramdown
 
 # Strip the .html extension from URLs that don't have a per-file permalink.

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Join Spill Da Beans
+title: "Spill Da Beans is coming soon"
 permalink: /join/
 ---
-
-# Spill Da Beans is coming soon
 
 A friend invited you to Spill Da Beans, the app for sharing the places you love with the people you trust.
 
