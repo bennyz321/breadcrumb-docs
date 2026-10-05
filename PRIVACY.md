@@ -6,8 +6,8 @@ permalink: /privacy/
 
 # Spill Da Beans Privacy Policy
 
-**Effective date:** PUBDATE
-**Last updated:** PUBDATE
+**Effective date:** 2026-10-05
+**Last updated:** 2026-10-05
 
 > **v0.1.0 early-access notice:** all privacy + support contact for Spill Da Beans is handled at **support@spilldabeans.com** during early access. Domain-aliased email addresses (e.g. `privacy@<domain>`) will land in a future release as the brand surface formalizes.
 

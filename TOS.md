@@ -6,8 +6,8 @@ permalink: /tos/
 
 # Spill Da Beans Terms of Service
 
-**Effective date:** PUBDATE
-**Last updated:** PUBDATE
+**Effective date:** 2026-10-05
+**Last updated:** 2026-10-05
 
 These Terms govern your use of Spill Da Beans. By creating an account or using the app you agree to them. If you don't agree, please don't use Spill Da Beans.
 
