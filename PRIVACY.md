@@ -7,9 +7,7 @@ permalink: /privacy/
 # Spill Da Beans Privacy Policy
 
 **Effective date:** 2026-10-05
-**Last updated:** 2026-10-05
-
-> **v0.1.0 early-access notice:** all privacy + support contact for Spill Da Beans is handled at **support@spilldabeans.com** during early access. Domain-aliased email addresses (e.g. `privacy@<domain>`) will land in a future release as the brand surface formalizes.
+**Last updated:** 2026-10-06
 
 This Privacy Policy explains what information Spill Da Beans collects, how we use it, and the choices you have. We wrote it in plain language so an App Store reviewer or any user can understand it without a lawyer.
 
@@ -19,7 +17,7 @@ If you have questions, contact us at **support@spilldabeans.com**.
 
 ## 1. Who we are
 
-Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." Your beans are shared with your Pod. You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. Spill Da Beans is operated by the team behind the app (contact: support@spilldabeans.com).
+Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." Your beans are shared with your Pod. You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. The app is operated by Spill Da Beans ("we", "us"), which is responsible for your information (contact: support@spilldabeans.com).
 
 ## 2. Information we collect
 
@@ -36,6 +34,8 @@ You control whether to grant Contacts access. We only read contacts at the momen
 With your permission, and only while you are using the app, we use your device's precise location to center the map, show nearby places and suggest the place you are at. To do this, your location or the map area you are viewing is sent to our servers and to our map providers (Apple and Mapbox). We do not collect background location. When you spill a bean, we store the location of the place you chose. If you spill a bean at your current spot or a spot you name yourself, that place's location comes from your device.
 
 You control whether to grant Location access. You can revoke access in iOS Settings at any time.
+
+Mapbox can also collect anonymous usage data about how its map performs. Sharing this data is optional and **off by default**. You can turn it on or off at any time from the map's (i) button.
 
 ### 2.3 User content (photos, text, tags)
 
@@ -84,7 +84,7 @@ Your content and identifiers are handled by the following service providers unde
 | Apple | Maps, place search, location lookups, Sign in with Apple, push notifications | Your search text, the map area or your location, your Apple ID identifier, push tokens and notification text |
 | Twilio (via Supabase) | Sign-in text messages | Your phone number and the code |
 | Resend | Sign-in emails | Your email address and the code |
-| Mapbox | Map display | The map area and your location while the map is open |
+| Mapbox | Map display; optional anonymous map usage data (off by default) | The map area and your location while the map is open; anonymous map usage data only if you turn it on |
 | Google (Places) | Place photos | Only which place is being looked up; no account data and no location |
 | Cloudflare | DNS and email-routing records for spilldabeans.com | Domain and email-routing records |
 
