@@ -7,9 +7,9 @@ permalink: /tos/
 # Spill Da Beans Terms of Service
 
 **Effective date:** 2026-10-05
-**Last updated:** 2026-10-05
+**Last updated:** 2026-10-06
 
-These Terms govern your use of Spill Da Beans. By creating an account or using the app you agree to them. If you don't agree, please don't use Spill Da Beans.
+These Terms are an agreement between you and Spill Da Beans ("we", "us"), the operator of the app, and govern your use of it. By creating an account or using the app you agree to them. If you don't agree, please don't use Spill Da Beans.
 
 Questions: **support@spilldabeans.com**.
 
@@ -17,7 +17,7 @@ Questions: **support@spilldabeans.com**.
 
 ## 1. What Spill Da Beans is
 
-Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." Your beans are shared with your Pod. You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user. The app is currently in early access; features may change and you may encounter bugs.
+Spill Da Beans is an iOS app for recommending places to your friends. You "spill a bean" to recommend a place: you choose the place and can add a photo, a short note (up to 280 characters) and quick tags. Beans are positive recommendations only; the app has no ratings. Your friends in the app are your "Pod." Your beans are shared with your Pod. You can see your Pod's beans in a feed and on a map of nearby places, and you can report a bean or block another user.
 
 ## 2. Who can use Spill Da Beans
 
@@ -39,12 +39,17 @@ You own the photos and text you post to Spill Da Beans. By spilling a bean you g
 You are responsible for the content you post. Do not post anything that:
 - you don't have the right to share
 - infringes someone else's copyright, trademark, or other rights
-- depicts illegal activity, violence, sexual content involving minors, or other content prohibited by Apple's App Store guidelines
-- harasses, threatens, or stalks another person
+- is sexually explicit or pornographic, or sexualizes minors in any way
+- is hateful or discriminatory, including hate speech targeting people for their race, ethnicity, national origin, religion, sex, gender identity, sexual orientation, disability or other protected characteristic
+- harasses, bullies, threatens, intimidates, stalks or doxxes another person, or shares someone's private information without their permission
+- depicts or encourages violence, self-harm or dangerous acts, or is gratuitously graphic
+- depicts or promotes illegal activity, including illegal drugs or weapons
+- is false or misleading in a way that could harm others, or impersonates someone
 - contains malware or links to malicious sites
 - is spam or unsolicited promotional content
+- is otherwise objectionable or prohibited by Apple's App Store guidelines
 
-We may remove content that violates these rules and suspend accounts that do so repeatedly.
+**We have zero tolerance for objectionable content and abusive users.** We remove content that violates these Terms and remove users who post it or abuse others from Spill Da Beans.
 
 You can report a bean or block another user from the bean's menu. Reported beans are hidden while we review them. Blocking someone removes them from your Pod, and neither of you will see the other's beans.
 
@@ -65,7 +70,7 @@ Spill Da Beans is provided "as is." We do our best to keep the app available, bu
 
 You can stop using Spill Da Beans at any time. You can delete your account from inside the app.
 
-We may suspend or terminate your account if you violate these Terms, including any acceptable-use rule above, or if required by law. If your account is terminated, sections of these Terms that by their nature should survive termination (ownership, limitations of liability, disputes) will remain in effect.
+We will suspend or terminate your account if you post objectionable content or abuse other users, and we may do so for any other violation of these Terms, including any acceptable-use rule above, or if required by law. If your account is terminated, sections of these Terms that by their nature should survive termination (ownership, limitations of liability, disputes) will remain in effect.
 
 ## 8. Disclaimers
 
