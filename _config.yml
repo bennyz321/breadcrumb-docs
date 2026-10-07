@@ -6,7 +6,7 @@ baseurl: /breadcrumb-docs
 theme: minima
 
 # Pin the nav to the pages it showed before /join/ existed, in the same order:
-# /privacy/ is the App Review privacy URL and must render unchanged.
+# /privacy/ and /tos/ are redirect stubs to spilldabeans.com; build 470 links them, so keep them 200.
 header_pages:
   - PRIVACY.md
   - TOS.md
