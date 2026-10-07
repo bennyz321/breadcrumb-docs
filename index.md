@@ -8,8 +8,8 @@ permalink: /
 
 This page hosts the legal documents for the Spill Da Beans iOS app.
 
-- [Terms of Service]({{ "/tos/" | relative_url }})
-- [Privacy Policy]({{ "/privacy/" | relative_url }})
+- [Terms of Service](https://spilldabeans.com/terms/)
+- [Privacy Policy](https://spilldabeans.com/privacy/)
 
 For privacy questions or data requests, email **support@spilldabeans.com**.
 For general support, email **support@spilldabeans.com**.
